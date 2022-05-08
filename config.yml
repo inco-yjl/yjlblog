@@ -5,7 +5,6 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: Opp!
-        imageUrl: "https://imgtg.com/image/zDzsM"
         Content: "这个人很懒，什么都没留下"
     socialIcons: # optional
         - name: "github"
