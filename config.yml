@@ -2,3 +2,12 @@ baseURL: https://intpyjl.github.io/yjlblog/
 languageCode: en-us
 title: IntP Blog
 theme: "PaperMod"
+params:
+    homeInfoParams:
+        Title: 
+        Content: "这个人很懒，什么都没留下"
+    socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/intpyjl"
+        - name: "Youtube"
+          url: "https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g"
