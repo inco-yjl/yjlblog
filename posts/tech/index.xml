@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技术博客 on IntP Blog</title>
+    <link>https://intpyjl.github.io/yjlblog/posts/tech/</link>
+    <description>Recent content in 技术博客 on IntP Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>yjlintp</copyright>
+    <lastBuildDate>Sun, 08 May 2022 13:25:38 +0800</lastBuildDate><atom:link href="https://intpyjl.github.io/yjlblog/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://intpyjl.github.io/yjlblog/posts/tech/mypost/</link>
+      <pubDate>Sun, 08 May 2022 13:25:38 +0800</pubDate>
+      
+      <guid>https://intpyjl.github.io/yjlblog/posts/tech/mypost/</guid>
+      <description>我的第一篇博客</description>
+    </item>
+    
+  </channel>
+</rss>
