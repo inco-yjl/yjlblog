@@ -43,11 +43,11 @@ languages:
         imageWidth: 150
         imageHeight: 150
         buttons:
-          - name: 👨🏻‍💻技术
+          - name: Tech
             url: posts/tech
-          - name: 📕阅读
+          - name: Read
             url: posts/read
-          - name: 🏖生活
+          - name: Life
             url: posts/life
       menu:
         main:
@@ -121,8 +121,6 @@ params:
           url: "https://github.com/intpyjl"
         - name: email
           url: "yjl.intp@gmail.com"
-        - name: RSS
-          url: "index.xml"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
