@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on IntP Blog</title>
+    <link>https://intpyjl.github.io/yjlblog/tags/</link>
+    <description>Recent content in Tags on IntP Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>yjlintp</copyright>
+    <lastBuildDate>Sat, 21 May 2022 23:55:04 +0800</lastBuildDate><atom:link href="https://intpyjl.github.io/yjlblog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>闪光</title>
+      <link>https://intpyjl.github.io/yjlblog/tags/%E9%97%AA%E5%85%89/</link>
+      <pubDate>Sat, 21 May 2022 23:55:04 +0800</pubDate>
+      
+      <guid>https://intpyjl.github.io/yjlblog/tags/%E9%97%AA%E5%85%89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生活</title>
+      <link>https://intpyjl.github.io/yjlblog/tags/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Sat, 21 May 2022 23:55:04 +0800</pubDate>
+      
+      <guid>https://intpyjl.github.io/yjlblog/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
