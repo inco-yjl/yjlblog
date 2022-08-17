@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>yjlintp</copyright>
-    <lastBuildDate>Thu, 26 May 2022 00:36:14 +0800</lastBuildDate><atom:link href="https://intpyjl.github.io/yjlblog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jul 2022 00:25:45 +0800</lastBuildDate><atom:link href="https://intpyjl.github.io/yjlblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>独行月球</title>
+      <link>https://intpyjl.github.io/yjlblog/posts/insight/yqdx/</link>
+      <pubDate>Sat, 30 Jul 2022 00:25:45 +0800</pubDate>
+      
+      <guid>https://intpyjl.github.io/yjlblog/posts/insight/yqdx/</guid>
+      <description>没有科幻的内核，但有科幻的浪漫</description>
+    </item>
+    
     <item>
       <title>入住隔离点（你管这叫隔离酒店？）</title>
       <link>https://intpyjl.github.io/yjlblog/posts/life/20220525/</link>
@@ -24,15 +33,6 @@
       
       <guid>https://intpyjl.github.io/yjlblog/posts/life/20220521_1/</guid>
       <description>今晚有草地演出</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://intpyjl.github.io/yjlblog/posts/tech/mypost/</link>
-      <pubDate>Sun, 08 May 2022 13:25:38 +0800</pubDate>
-      
-      <guid>https://intpyjl.github.io/yjlblog/posts/tech/mypost/</guid>
-      <description>我的第一篇博客</description>
     </item>
     
     
