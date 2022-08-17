@@ -45,8 +45,8 @@ languages:
         buttons:
           - name: Tech
             url: posts/tech
-          - name: Read
-            url: posts/read
+          - name: Insight
+            url: posts/insight
           - name: Life
             url: posts/life
       menu:
