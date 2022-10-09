@@ -18,7 +18,7 @@ showToc: false # 显示目录
 TocOpen: false # 自动展开目录
 hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等
 disableShare: true 
-showbreadcrumbs: false 
+showbreadcrumbs: true
 cover:
     image: "posts/insight/images/dxyq.jpg"
     caption: ""
