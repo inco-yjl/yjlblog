@@ -5,7 +5,7 @@ draft: true
 author: ["卡米拉"]
 tags:
 - 网络
-- 赛博
+- 科幻
 - 爱
 - 荒诞
 # summary->在列表页展现的摘要内容，自动生成，内容默认前70个字符，可通过此参数自定义，一般无需专门设置
@@ -36,7 +36,7 @@ cover:
 [bilibili](https://www.bilibili.com/video/BV1NY411V774)才6.4万播放
 
 <h2>NEUROMANCE</h2>
-<font color=#333333 size=2>直译是赛博浪漫？很切合专辑名NEW ROMANCER</font>
+<font color=#333333 size=2>很切合专辑名NEW ROMANCER</font>
 
 ![あれからの僕たちはずっと雨に打たれ、楽園の切符を失くした](https://i.imgtg.com/2022/09/16/yVUgK.jpg)
 &ensp;&ensp;&ensp;&ensp;开头两句“雨”、“乐园”显然都意有所指，此时本曲想要讲述的故事还不清晰，但却已经不太符合听者对“赛博浪漫”的幻想，基调更为悲伤。
