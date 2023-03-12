@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>javafx on IntP Blog</title>
+    <link>https://intpyjl.github.io/yjlblog/tags/javafx/</link>
+    <description>Recent content in javafx on IntP Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>yjlintp</copyright>
+    <lastBuildDate>Tue, 07 Mar 2023 22:30:25 +0800</lastBuildDate><atom:link href="https://intpyjl.github.io/yjlblog/tags/javafx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javafx</title>
+      <link>https://intpyjl.github.io/yjlblog/posts/tech/javafx/</link>
+      <pubDate>Tue, 07 Mar 2023 22:30:25 +0800</pubDate>
+      
+      <guid>https://intpyjl.github.io/yjlblog/posts/tech/javafx/</guid>
+      <description>javafx GUI框架学习</description>
+    </item>
+    
+  </channel>
+</rss>

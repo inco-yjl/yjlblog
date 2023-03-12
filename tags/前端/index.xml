@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>前端 on IntP Blog</title>
+    <link>https://intpyjl.github.io/yjlblog/tags/%E5%89%8D%E7%AB%AF/</link>
+    <description>Recent content in 前端 on IntP Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>yjlintp</copyright>
+    <lastBuildDate>Sat, 11 Mar 2023 16:00:00 +0800</lastBuildDate><atom:link href="https://intpyjl.github.io/yjlblog/tags/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>前端笔试题练习（一）</title>
+      <link>https://intpyjl.github.io/yjlblog/posts/tech/frontend/</link>
+      <pubDate>Sat, 11 Mar 2023 16:00:00 +0800</pubDate>
+      
+      <guid>https://intpyjl.github.io/yjlblog/posts/tech/frontend/</guid>
+      <description>不会写，好想死</description>
+    </item>
+    
+  </channel>
+</rss>
