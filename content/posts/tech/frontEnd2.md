@@ -559,3 +559,6 @@ void consumption() {
 mutex是互斥信号量，一般为1，实现对缓冲区的互斥访问
 
 **答案：isEmpty(),m_notEmpty.wait(),m_not_Full.notify()**
+
+**js数据类型**
+Number、String、Boolean、undefined、object、Null
