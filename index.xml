@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>yjlintp</copyright>
-    <lastBuildDate>Sun, 12 Mar 2023 15:48:21 +0800</lastBuildDate><atom:link href="https://intpyjl.github.io/yjlblog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Mar 2023 22:45:47 +0800</lastBuildDate><atom:link href="https://intpyjl.github.io/yjlblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>前端知识点Js</title>
+      <link>https://intpyjl.github.io/yjlblog/posts/tech/frontend_interview2/</link>
+      <pubDate>Fri, 17 Mar 2023 22:45:47 +0800</pubDate>
+      
+      <guid>https://intpyjl.github.io/yjlblog/posts/tech/frontend_interview2/</guid>
+      <description>不会</description>
+    </item>
+    
+    <item>
+      <title>前端知识点CSS</title>
+      <link>https://intpyjl.github.io/yjlblog/posts/tech/frontend_interview1/</link>
+      <pubDate>Fri, 17 Mar 2023 14:10:33 +0800</pubDate>
+      
+      <guid>https://intpyjl.github.io/yjlblog/posts/tech/frontend_interview1/</guid>
+      <description>不会</description>
+    </item>
+    
     <item>
       <title>前端笔试题练习（二）</title>
       <link>https://intpyjl.github.io/yjlblog/posts/tech/frontend2/</link>
