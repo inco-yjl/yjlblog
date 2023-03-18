@@ -102,6 +102,10 @@ console.log(res)
 
 typeof的返回值是字符串类型，所以是string
 
+typeof可以判断以下类型：undefined string number boolean symbol object function
+
+typeof null === 'object'
+
 <br/>
 <h3>
 4.关于html的canvas的绘制、缩放，下列说法正确的是？
