@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>书影音评论 on IntP Blog</title>
-    <link>https://intpyjl.github.io/yjlblog/posts/insight/</link>
+    <link>https://inco-yjl.github.io/yjlblog/posts/insight/</link>
     <description>Recent content in 书影音评论 on IntP Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>yjlintp</copyright>
-    <lastBuildDate>Wed, 25 Jan 2023 20:41:57 +0800</lastBuildDate><atom:link href="https://intpyjl.github.io/yjlblog/posts/insight/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Inco</copyright>
+    <lastBuildDate>Wed, 25 Jan 2023 20:41:57 +0800</lastBuildDate><atom:link href="https://inco-yjl.github.io/yjlblog/posts/insight/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>流浪地球2</title>
-      <link>https://intpyjl.github.io/yjlblog/posts/insight/wanderingearth2/</link>
+      <link>https://inco-yjl.github.io/yjlblog/posts/insight/wanderingearth2/</link>
       <pubDate>Wed, 25 Jan 2023 20:41:57 +0800</pubDate>
       
-      <guid>https://intpyjl.github.io/yjlblog/posts/insight/wanderingearth2/</guid>
+      <guid>https://inco-yjl.github.io/yjlblog/posts/insight/wanderingearth2/</guid>
       <description>⌈啊，地球，我的流浪地球⌋</description>
     </item>
     
     <item>
       <title>NEUROMANCE</title>
-      <link>https://intpyjl.github.io/yjlblog/posts/insight/neuromance/</link>
+      <link>https://inco-yjl.github.io/yjlblog/posts/insight/neuromance/</link>
       <pubDate>Fri, 16 Sep 2022 22:45:46 +0800</pubDate>
       
-      <guid>https://intpyjl.github.io/yjlblog/posts/insight/neuromance/</guid>
+      <guid>https://inco-yjl.github.io/yjlblog/posts/insight/neuromance/</guid>
       <description>⌈也行吧、人就是这样才知晓爱为何物吧⌋</description>
     </item>
     
     <item>
       <title>月光</title>
-      <link>https://intpyjl.github.io/yjlblog/posts/insight/moonlight/</link>
+      <link>https://inco-yjl.github.io/yjlblog/posts/insight/moonlight/</link>
       <pubDate>Thu, 18 Aug 2022 00:18:53 +0800</pubDate>
       
-      <guid>https://intpyjl.github.io/yjlblog/posts/insight/moonlight/</guid>
+      <guid>https://inco-yjl.github.io/yjlblog/posts/insight/moonlight/</guid>
       <description>⌈是的⌋</description>
     </item>
     
     <item>
       <title>独行月球</title>
-      <link>https://intpyjl.github.io/yjlblog/posts/insight/yqdx/</link>
+      <link>https://inco-yjl.github.io/yjlblog/posts/insight/yqdx/</link>
       <pubDate>Sat, 30 Jul 2022 00:25:45 +0800</pubDate>
       
-      <guid>https://intpyjl.github.io/yjlblog/posts/insight/yqdx/</guid>
+      <guid>https://inco-yjl.github.io/yjlblog/posts/insight/yqdx/</guid>
       <description>没有科幻的内核，但有科幻的浪漫</description>
     </item>
     

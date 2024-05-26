@@ -1,7 +1,7 @@
 ---
 title: "Javafx"
 date: 2023-03-07T22:30:25+08:00
-author: ["yjlintp"]
+author: ["Inco"]
 tags:
 - javafx
 # summary->在列表页展现的摘要内容，自动生成，内容默认前70个字符，可通过此参数自定义，一般无需专门设置

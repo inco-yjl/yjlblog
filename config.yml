@@ -1,6 +1,6 @@
-baseURL: https://intpyjl.github.io/yjlblog/
+baseURL: https://inco-yjl.github.io/yjlblog/
 languageCode: zh-cn # en-us
-title: IntP Blog
+title: Inco Blog
 theme: PaperMod # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true
@@ -14,7 +14,7 @@ buildFuture: false
 buildExpired: false
 
 #googleAnalytics: UA-123-45 # 谷歌统计
-Copyright: yjlintp
+Copyright: inco
 
 paginate: 10    # 首页每页显示的文章数
 
@@ -89,7 +89,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # description: "这是一个纯粹的博客......"
-    author: yjlintp
+    author: inco
     # author: ["Me", "You"] # multiple authors
 
   
@@ -117,9 +117,9 @@ params:
         - name: youtube
           url: "https://www.youtube.com/channel/UCnRQYHTnRLSF0cLJwMnedCg"
         - name: github
-          url: "https://github.com/intpyjl"
+          url: "https://github.com/inco-yjl"
         - name: email
-          url: "yjl.intp@gmail.com"
+          url: "yu.jinlu@qq.com"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
