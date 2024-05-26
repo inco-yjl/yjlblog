@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on IntP Blog</title>
-    <link>https://intpyjl.github.io/yjlblog/posts/</link>
+    <link>https://inco-yjl.github.io/yjlblog/posts/</link>
     <description>Recent content in Posts on IntP Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>yjlintp</copyright>
-    <lastBuildDate>Fri, 17 Mar 2023 22:45:47 +0800</lastBuildDate><atom:link href="https://intpyjl.github.io/yjlblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Inco</copyright>
+    <lastBuildDate>Wed, 25 Jan 2023 20:41:57 +0800</lastBuildDate><atom:link href="https://inco-yjl.github.io/yjlblog/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

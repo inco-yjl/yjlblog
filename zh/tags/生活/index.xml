@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>生活 on Inco Blog</title>
+    <link>https://inco-yjl.github.io/yjlblog/zh/tags/%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 生活 on Inco Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>inco</copyright>
+    <lastBuildDate>Thu, 26 May 2022 00:36:14 +0800</lastBuildDate><atom:link href="https://inco-yjl.github.io/yjlblog/zh/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>入住隔离点（你管这叫隔离酒店？）</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/life/20220525/</link>
+      <pubDate>Thu, 26 May 2022 00:36:14 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/life/20220525/</guid>
+      <description>隔离中——</description>
+    </item>
+    
+    <item>
+      <title>灯光与草地演出</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/life/20220521_1/</link>
+      <pubDate>Sat, 21 May 2022 23:55:04 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/life/20220521_1/</guid>
+      <description>今晚有草地演出</description>
+    </item>
+    
+  </channel>
+</rss>

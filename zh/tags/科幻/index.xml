@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>科幻 on Inco Blog</title>
+    <link>https://inco-yjl.github.io/yjlblog/zh/tags/%E7%A7%91%E5%B9%BB/</link>
+    <description>Recent content in 科幻 on Inco Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>inco</copyright>
+    <lastBuildDate>Wed, 25 Jan 2023 20:41:57 +0800</lastBuildDate><atom:link href="https://inco-yjl.github.io/yjlblog/zh/tags/%E7%A7%91%E5%B9%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>流浪地球2</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/insight/wanderingearth2/</link>
+      <pubDate>Wed, 25 Jan 2023 20:41:57 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/insight/wanderingearth2/</guid>
+      <description>⌈啊，地球，我的流浪地球⌋</description>
+    </item>
+    
+    <item>
+      <title>NEUROMANCE</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/insight/neuromance/</link>
+      <pubDate>Fri, 16 Sep 2022 22:45:46 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/insight/neuromance/</guid>
+      <description>⌈也行吧、人就是这样才知晓爱为何物吧⌋</description>
+    </item>
+    
+    <item>
+      <title>独行月球</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/insight/yqdx/</link>
+      <pubDate>Sat, 30 Jul 2022 00:25:45 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/insight/yqdx/</guid>
+      <description>没有科幻的内核，但有科幻的浪漫</description>
+    </item>
+    
+  </channel>
+</rss>

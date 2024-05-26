@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Inco Blog</title>
+    <link>https://inco-yjl.github.io/yjlblog/zh/</link>
+    <description>Recent content on Inco Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>inco</copyright>
+    <lastBuildDate>Fri, 17 Mar 2023 22:45:47 +0800</lastBuildDate><atom:link href="https://inco-yjl.github.io/yjlblog/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>前端知识点Js</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/tech/frontend_interview2/</link>
+      <pubDate>Fri, 17 Mar 2023 22:45:47 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/tech/frontend_interview2/</guid>
+      <description>不会</description>
+    </item>
+    
+    <item>
+      <title>前端知识点CSS</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/tech/frontend_interview1/</link>
+      <pubDate>Fri, 17 Mar 2023 14:10:33 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/tech/frontend_interview1/</guid>
+      <description>不会</description>
+    </item>
+    
+    <item>
+      <title>前端笔试题练习（二）</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/tech/frontend2/</link>
+      <pubDate>Sun, 12 Mar 2023 15:48:21 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/tech/frontend2/</guid>
+      <description>不会写，好想死</description>
+    </item>
+    
+    <item>
+      <title>编程题练习（一）</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/tech/code1/</link>
+      <pubDate>Sun, 12 Mar 2023 14:45:56 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/tech/code1/</guid>
+      <description>欸</description>
+    </item>
+    
+    <item>
+      <title>前端笔试题练习（一）</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/tech/frontend/</link>
+      <pubDate>Sat, 11 Mar 2023 16:00:00 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/tech/frontend/</guid>
+      <description>不会写，好想死</description>
+    </item>
+    
+    <item>
+      <title>Javafx</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/tech/javafx/</link>
+      <pubDate>Tue, 07 Mar 2023 22:30:25 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/tech/javafx/</guid>
+      <description>javafx GUI框架学习</description>
+    </item>
+    
+    <item>
+      <title>流浪地球2</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/insight/wanderingearth2/</link>
+      <pubDate>Wed, 25 Jan 2023 20:41:57 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/insight/wanderingearth2/</guid>
+      <description>⌈啊，地球，我的流浪地球⌋</description>
+    </item>
+    
+    <item>
+      <title>NEUROMANCE</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/insight/neuromance/</link>
+      <pubDate>Fri, 16 Sep 2022 22:45:46 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/insight/neuromance/</guid>
+      <description>⌈也行吧、人就是这样才知晓爱为何物吧⌋</description>
+    </item>
+    
+    <item>
+      <title>月光</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/insight/moonlight/</link>
+      <pubDate>Thu, 18 Aug 2022 00:18:53 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/insight/moonlight/</guid>
+      <description>⌈是的⌋</description>
+    </item>
+    
+    <item>
+      <title>独行月球</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/insight/yqdx/</link>
+      <pubDate>Sat, 30 Jul 2022 00:25:45 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/insight/yqdx/</guid>
+      <description>没有科幻的内核，但有科幻的浪漫</description>
+    </item>
+    
+    <item>
+      <title>入住隔离点（你管这叫隔离酒店？）</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/life/20220525/</link>
+      <pubDate>Thu, 26 May 2022 00:36:14 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/life/20220525/</guid>
+      <description>隔离中——</description>
+    </item>
+    
+    <item>
+      <title>灯光与草地演出</title>
+      <link>https://inco-yjl.github.io/yjlblog/zh/posts/life/20220521_1/</link>
+      <pubDate>Sat, 21 May 2022 23:55:04 +0800</pubDate>
+      
+      <guid>https://inco-yjl.github.io/yjlblog/zh/posts/life/20220521_1/</guid>
+      <description>今晚有草地演出</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
